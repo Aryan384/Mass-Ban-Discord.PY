@@ -8,3 +8,5 @@ Ways For Self Hosting
 3 - Run this command  : python3  bot.py
 4 - Invite bot to the servers you want to ban members from.
 5 - Wait until banning is done. Don't close the terminal. This may take a while.
+
+You Can Use Heroku Also
